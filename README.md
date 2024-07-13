@@ -89,3 +89,6 @@
 - **Tushar Roy - Dynamic Programming**
 - **Coursera - Algorithms Part 1 and 2 by Princeton University**
 - **Ashish Pratap Singh - GitHub Repo**
+
+## Credit
+This list was created with the help of the video ["Complete Roadmap to Master DSA (Crack any FAANG Interview)"](https://www.youtube.com/watch?v=F-ao3Q6I2Fc) by Parth G, available on YouTube.
